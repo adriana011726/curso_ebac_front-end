@@ -1,3 +1,3 @@
-# Git Couse
+# Gt Couse
 
-Este é um repositório teste para ensinar como o Git funciona.
+AAAAAAAEste é um repositório teste para ensinar como o Git funciona.
