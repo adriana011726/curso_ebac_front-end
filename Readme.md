@@ -1,3 +1,3 @@
-Este é um repositório teste para ensinar como o Git funciona.
-# GitHub 
-Este é um repositório teste para ensinar como o Git funciona.L
+Este é um repositório dos exercícios do curso de Engenheiro Front-end da EBAC .
+# EBAC 
+
